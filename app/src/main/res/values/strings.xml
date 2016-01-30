@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fyzika pro Android</string>
+    <string name="main_activity_menu_first">Rovnoměrný přímočarý pohyb</string>
+    <string name="pohyb_activity_start_button">Start simulace</string>
+    <string name="pohyb_activity_rychlost">Rychlost [m/s]</string>
+    <string name="pohyb_activity_cas">Čas [s]</string>
+    <string name="rovnomerny_pohyb_activity_graf_rychlost">Graf rychlosti na čase</string>
+    <string name="rovnomerny_pohyb_activity_graf_draha">Graf dráhy na čase</string>
+    <string name="rovnomerny_pohyb_activity_graf_zrychleni">Graf zrychlení na čase</string>
+</resources>
